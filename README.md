@@ -1,6 +1,7 @@
 # 🌟 Vibrant 3D Blog
 
-Welcome to the **Vibrant 3D Blog**, an engaging and beautifully crafted Angular blogging website powered by the innovative AI tool [Loveable](https://github.com/loveable).
+Welcome to the **Vibrant 3D Blog**, an engaging and beautifully crafted Angular blogging website powered by the innovative AI tool [Loveable](https://github.com/loveable)
+[Website URL:](https://blog-template-love.netlify.app/)
 
 ---
 
